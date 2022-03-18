@@ -56,5 +56,56 @@ ls -al sẽ liệt kê các tệp và thư mục với thông tin chi tiết nh�
 
 ![image](https://user-images.githubusercontent.com/101684058/158785414-ae782215-1171-4050-bc9f-7c883441b4ce.png)
 
+# Lệnh xóa một thư mục: rmdir 
+Ví dụ: Xóa thư mục có tên thu, ta dùng lệnh: rmdir thu
+
+![image](https://user-images.githubusercontent.com/101684058/158918736-41031bd3-e014-4ffc-bd4e-681716e10027.png)
+
+# Lệnh xóa file: rm
+Ví dụ: Để xóa file tên file.txt ta dùng lệnh: rm file.txt
+
+
+![image](https://user-images.githubusercontent.com/101684058/158919168-4801a7ee-8239-4918-b6e0-9e9b0c367fb9.png)
+
+Ngoài ra để xóa thư mục và toàn bộ dữ liệu trong thư mục đó ta dùng lệnh: rm -r 
+
+![image](https://user-images.githubusercontent.com/101684058/158919893-24efce08-13b2-4e07-958b-788b41f6cda8.png)
+
+# Lệnh đọc và in ra nội dung của file trên màn hình: cat
+
+Ví dụ: In ra nội dung file có tên filenew.txt ta dùng lệnh: cat filenew.txt
+
+![image](https://user-images.githubusercontent.com/101684058/158920189-9dd36d94-071d-4ec4-b6bc-569a504c45f7.png)
+
+# Đọc và in ra N dòng cuối cùng: tail
+Để in ra 5 dòng cuối cùng của file filenew.txt ta dùng lệnh: tail -n 5 filenew.txt 
+![image](https://user-images.githubusercontent.com/101684058/158921236-493a882e-8725-47da-99a6-ccef7cd00081.png)
+
+# Đọc và in ra N dòng đầu tiên: head
+
+Đọc in ra 5 dòng đầu tiên của file filenew.txt ta dùng lệnh: head -n 5 filenew.txt
+
+![image](https://user-images.githubusercontent.com/101684058/158921536-65243a31-3d48-46a5-b51a-8f1822ccc379.png)
+
+# Lệnh tar
+ tar -cvf    tạo file nén (.tar) từ các file có sẵn. 
+ 
+  ![image](https://user-images.githubusercontent.com/101684058/158923883-fa1cf42d-572c-4b41-8ffd-06913c19b06e.png)
+
+ tar -tvf   xem nội dung file nén (.tar).  
+ 
+ ![image](https://user-images.githubusercontent.com/101684058/158923998-052c4a3d-d102-4cbe-ac13-432d6a2c4e28.png)
+
+
+ tar -xvf   giải nén (file .tar).
+ 
+ ![image](https://user-images.githubusercontent.com/101684058/158924083-7974e1ab-e884-4aa2-a1be-211a18f9af45.png)
+
+
+ 
+
+
+
+
 
 
