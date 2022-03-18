@@ -102,6 +102,7 @@ Ví dụ: In ra nội dung file có tên filenew.txt ta dùng lệnh: cat filene
  ![image](https://user-images.githubusercontent.com/101684058/158924083-7974e1ab-e884-4aa2-a1be-211a18f9af45.png)
 
 
+
  
 
 
